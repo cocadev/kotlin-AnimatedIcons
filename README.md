@@ -1,2 +1,4 @@
 AnimatedIcons
-<img src="screenshot.jpg" />
+<center>
+	<img src="screenshot.jpg" width="50%" />
+</center>
